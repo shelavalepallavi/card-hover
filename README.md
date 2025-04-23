@@ -1,4 +1,4 @@
-# ✨  HTML & CSS Card
+# ✨  Card Hover
 
 This is a simple and responsive card UI component built using **HTML** and **CSS**. When you hover over each card, it smoothly reveals hidden content with animation.
 
@@ -31,7 +31,7 @@ hover-cards/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shelavalepallavi/css-cards.git
+git clone https://github.com/shelavalepallavi/card-hover.git
 cd css-cards
 ```
 
