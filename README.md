@@ -17,7 +17,7 @@ This is a simple and responsive card UI component built using **HTML** and **CSS
 
 📁 Folder Structure
 ```
-hover-cards/
+card-hover/
 ├── index.html
 ├── style.css
 └── home.png
