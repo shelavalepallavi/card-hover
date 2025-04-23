@@ -32,7 +32,7 @@ hover-cards/
 
 ```bash
 git clone https://github.com/shelavalepallavi/card-hover.git
-cd css-cards
+cd card-hover
 ```
 
 Open index.html in your browser:
